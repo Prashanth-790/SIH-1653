@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 11 - 03 - 2025 
-## Register Number:212224230137
-## Name: LAKSHMEN PRASHANTH R
+## Register Number: 212224230137
+## Name:  LAKSHMEN PRASHANTH R
 ## Problem Title
 
 SIH 1653: Web based Selector-Applicant Simulation Software
