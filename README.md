@@ -77,7 +77,8 @@ Ministry of Defence
 
 ## Proposed Solution / Architecture Diagram:
 
-![image](https://github.com/user-attachments/assets/7c9122f8-fdbb-482e-8162-ce4131f936f2)
+![sih 1](https://github.com/user-attachments/assets/1904869a-758e-4bab-ac3d-e32ae9e01284)
+
 
 
 
